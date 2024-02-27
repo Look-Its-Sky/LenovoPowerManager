@@ -7,9 +7,9 @@ def help():
     print('''LenovoPowerManager: [options]
 
 Options:
-    -bs, --battery-saver
-    -ic, --intelligent-cooling
-    -ep, --extreme-performance
+    --bs, --battery-saver
+    --ic, --intelligent-cooling
+    --ep, --extreme-performance
     ''')
 
 '''
